@@ -1,0 +1,2 @@
+# palindrome-checker
+ The Palindrome Checker is a simple, interactive web application designed to determine if a given string of text is a palindrome. A palindrome is a word, phrase, number, or other sequence of characters that reads the same forward and backward (ignoring spaces, punctuation, and capitalization). This tool is built using HTML, CSS, and JavaScript and offers a user-friendly interface for quick palindrome verification.
